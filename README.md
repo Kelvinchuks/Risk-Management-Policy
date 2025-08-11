@@ -16,6 +16,6 @@ Here is the Link to the [Recommendation/remediation](https://github.com/Kelvinch
 
 After resolving the compliance issues, the fictitious bank began updating its risk management policy to reflect its migration to the cloud. The goal was to align the organisation’s risk policy with external regulations and avoid the negative impacts of non-compliance. I was tasked with revising the sections related to IT assets. Once again, I applied the NIST SP 800-53 framework to identify areas for improvement and recommend necessary updates.
 
-Here is the Link to the [Risk Management Policy]() I was asked to review
+Here is the Link to the [Risk Management Policy](https://github.com/Kelvinchuks/Risk-Management-Policy/blob/Kelvinchuks/Cymbal%20Bank_%20Risk%20management%20policy.pdf) I was asked to review
 
 Here is the Link to the [Improved Risk Management Policy]() I reviewed
