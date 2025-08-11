@@ -10,4 +10,4 @@ Here is the Link to the [Compliance Report](https://github.com/Kelvinchuks/Risk-
 
 Upon reviewing the compliance report, I found that some affected resources need to be addressed. I tackle the case based on severity level (High, Medium, Low).
 
-Here is the Link to the [Recommendation/remediation](https://github.com/Kelvinchuks/Risk-Management-Policy/blob/Kelvinchuks/NIST%20SP%20800-53%20compliance%20report.xlsx)
+Here is the Link to the [Recommendation/remediation](https://github.com/Kelvinchuks/Risk-Management-Policy/blob/Kelvinchuks/Compliance%20report%20notes.pdf)
