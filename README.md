@@ -19,3 +19,8 @@ After resolving the compliance issues, the fictitious bank began updating its ri
 Here is the Link to the [Risk Management Policy](https://github.com/Kelvinchuks/Risk-Management-Policy/blob/Kelvinchuks/Cymbal%20Bank_%20Risk%20management%20policy.pdf) I was asked to review
 
 Here is the Link to the [Improved Risk Management Policy](https://github.com/Kelvinchuks/Risk-Management-Policy/blob/Kelvinchuks/Risk%20management%20policy%20notes.pdf) I reviewed
+
+### Tools
+
+I made use of the Google Cloud Security Command Centre to identify and verify the security threats (I ran a compliance report that confirms the vulnerability issues).
+I made use of the NIST SP 800-53 framework to identify areas for improvement and remediation.
