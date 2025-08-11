@@ -1,4 +1,4 @@
-# Compliance Report and Remediation
+# Compliance Report and Remediation/Update on Risk Management Policy
 
 In the Google Cloud Cybersecurity lab activity, I was presented with a scenario involving a fictitious bank that had recently migrated to Google Cloud services but encountered a compliance challenge due to the configuration of its assets.
 
@@ -11,3 +11,11 @@ Here is the Link to the [Compliance Report](https://github.com/Kelvinchuks/Risk-
 Upon reviewing the compliance report, I found that some affected resources need to be addressed. I tackle the case based on severity level (High, Medium, Low).
 
 Here is the Link to the [Recommendation/remediation](https://github.com/Kelvinchuks/Risk-Management-Policy/blob/Kelvinchuks/Compliance%20report%20notes.pdf)
+
+## Updating Risk Management Policy
+
+After resolving the compliance issues, the fictitious bank began updating its risk management policy to reflect its migration to the cloud. The goal was to align the organisation’s risk policy with external regulations and avoid the negative impacts of non-compliance. I was tasked with revising the sections related to IT assets. Once again, I applied the NIST SP 800-53 framework to identify areas for improvement and recommend necessary updates.
+
+Here is the Link to the [Risk Management Policy]() I was asked to review
+
+Here is the Link to the [Improved Risk Management Policy]() I reviewed
