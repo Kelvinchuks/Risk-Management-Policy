@@ -6,4 +6,8 @@ My role in this activity was to join the security team responsible for implement
 
 Our objective was to identify ineffective cloud security controls contributing to the compliance gaps. To achieve this, I reviewed the compliance report for the cloud resources in the project, analyzed the issues, and provided targeted recommendations for remediation.
 
-Here is the Link to the [Compliance Report](https://github.com/Kelvinchuks/Risk-Management-Policy/blob/Kelvinchuks/NIST%20SP%20800-53%20compliance%20report.xlsx) that need remediation
+Here is the Link to the [Compliance Report](https://github.com/Kelvinchuks/Risk-Management-Policy/blob/Kelvinchuks/NIST%20SP%20800-53%20compliance%20report.xlsx) that need remediation.
+
+Upon reviewing the compliance report, I found out they're some affected resources that need to be addresss. I tackle the case base on severity level (High, Medium, Low).
+
+Here is the Link to the [Recommendation/remediation](https://github.com/Kelvinchuks/Risk-Management-Policy/blob/Kelvinchuks/NIST%20SP%20800-53%20compliance%20report.xlsx)
