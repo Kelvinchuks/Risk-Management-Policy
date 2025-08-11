@@ -1,4 +1,4 @@
-# Risk-Management-Policy
+# Compliance Report and Remediation
 
 In the Google Cloud Cybersecurity lab activity, I was presented with a scenario involving a fictitious bank that had recently migrated to Google Cloud services but encountered a compliance challenge due to the configuration of its assets.
 
