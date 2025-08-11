@@ -1,0 +1,8 @@
+# Risk-Management-Policy
+
+In the Google Cloud Cybersecurity lab activity, I was presented with a scenario involving a fictitious bank that had recently migrated to Google Cloud services but encountered a compliance challenge due to the configuration of its assets.
+
+My role in this activity was to join the security team responsible for implementing security measures and recommendations based on the NIST SP 800-53 framework (Security and Privacy Controls for Information Systems), which was provided as part of the lab.
+
+Our objective was to identify ineffective cloud security controls contributing to the compliance gaps. To achieve this, I reviewed the compliance report for the cloud resources in the project, analyzed the issues, and provided targeted recommendations for remediation.
+
